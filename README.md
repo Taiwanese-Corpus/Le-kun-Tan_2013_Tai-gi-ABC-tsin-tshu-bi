@@ -1,4 +1,5 @@
 # 台南市台語羅馬字教材--Tâi-gí ABC tsin tshù-bī 
+本底網站：[PDF](http://163.26.1.53/Content/ResourceDetail.aspx?RAID=3430), [CD](http://web.tn.edu.tw/ma-lang/?page_id=2520)
 
 | 資源類型 | 教材 |
 | --- | --- |
@@ -10,4 +11,5 @@
 | 適用版本 | 自編 |
 | 作者 |  教育局 - 鄭邦鎮 |
 | 授權方式 |   公眾授權 |
-| 檔案 | [瀏覽檔案](http://163.26.1.53/Content/PersonalResource/102/11/4297_cs77/%E5%8F%B0%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97%E5%B8%82%E6%9C%AC%E6%95%99%E6%9D%90-20131001.zip)  部分檔案容量較大，建議下載回電腦後再開啟觀看。 |
+| 檔案(PDF) | [瀏覽檔案](http://163.26.1.53/Content/PersonalResource/102/11/4297_cs77/%E5%8F%B0%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97%E5%B8%82%E6%9C%AC%E6%95%99%E6%9D%90-20131001.zip)  部分檔案容量較大，建議下載回電腦後再開啟觀看。 |
+| 上傳檔案(CD) |[瀏覽檔案](https://drive.google.com/open?id=1BrwydoJhDAKQ_nI6yx6bVQUW0GPi6he0)  部分檔案容量較大，建議下載回電腦後再開啟觀看。|
